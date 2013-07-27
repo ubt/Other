@@ -3,11 +3,11 @@
 
 
 Кузнечное дело:<br/>
-http://wowway.ru/?spell=36435<br/>
-http://wowway.ru/?spell=36436<br/>
-http://wowway.ru/?spell=36438<br/>
-http://wowway.ru/?spell=36439<br/>
-http://wowway.ru/?spell=36441<br/><br/>
+http://wowway.ru/?spell=36435 (ковка доспехов)<br/>
+http://wowway.ru/?spell=36436 (ковка оружия)<br/>
+http://wowway.ru/?spell=36438 (ковка мечей)<br/>
+http://wowway.ru/?spell=36439 (ковка топоров)<br/>
+http://wowway.ru/?spell=36441 (ковка молотов)<br/><br/>
 
 
 Кожевничество:<br/>
