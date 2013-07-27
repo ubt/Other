@@ -11,9 +11,9 @@ http://wowway.ru/?spell=36441 (ковка молотов)<br/><br/>
 
 
 Кожевничество:<br/>
-http://wowway.ru/?spell=36328<br/>
-http://wowway.ru/?spell=36433<br/>
-http://wowway.ru/?spell=36434<br/><br/>
+http://wowway.ru/?spell=36328 (сила стихий)<br/>
+http://wowway.ru/?spell=36433 (традиции предков)<br/>
+http://wowway.ru/?spell=36434 (чешуя дракона)<br/><br/>
 
 
 Портняжное дело:<br/>
